@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "role": "buyer",
+    "full_name": "Dmitriy Frolov",
+    "phone_number": "+79114213214",
+    "email": "test@gmail.com",
+    "password": "$2a$10$sXzDIq70jp9FrRC6tTETbuhHuHt4E.BoTv6QsArUc0eyXJkci5Kvq",
+    "isDelete": true
+  },
+  {
+    "id": 2,
+    "role": "buyer",
+    "full_name": "alex vordov",
+    "phone_number": "4451245141",
+    "email": "test@gmail.com",
+    "password": "$2a$10$5rcorm2JQbtBSJzpXp6cg.hexzpjCGJ4lTL.HuP/rfk6L.kF7Ukiu",
+    "isDelete": false
+  },
+  {
+    "id": 3,
+    "role": "buyer",
+    "full_name": "alex vordov",
+    "phone_number": "4451245141",
+    "email": "test@gmail.com",
+    "password": "$2a$10$frNGjpSWC9urBRPzK9YtNOCaQ6cWZkcw1LVO6M91TrEPi2QyNZNvC",
+    "isDelete": false
+  },
+  {
+    "id": 4,
+    "role": "buyer",
+    "full_name": "alexad vordov",
+    "phone_number": "4451245141",
+    "email": "test@gmail.com",
+    "password": "$2a$10$lnZBqSaNvHQ0K8oF93uf8.lWzykMsY.JlG.InBH.ljCgZbCwC0BGe",
+    "isDelete": false
+  },
+  {
+    "0": {
+      "id": 1,
+      "role": "buyer",
+      "full_name": "Dmitriy Frolov",
+      "phone_number": "+79114213214",
+      "email": "test@gmail.com",
+      "password": "$2a$10$sXzDIq70jp9FrRC6tTETbuhHuHt4E.BoTv6QsArUc0eyXJkci5Kvq",
+      "isDelete": true
+    },
+    "1": {
+      "id": 2,
+      "role": "buyer",
+      "full_name": "alex vordov",
+      "phone_number": "4451245141",
+      "email": "test@gmail.com",
+      "password": "$2a$10$5rcorm2JQbtBSJzpXp6cg.hexzpjCGJ4lTL.HuP/rfk6L.kF7Ukiu",
+      "isDelete": false
+    },
+    "2": {
+      "id": 3,
+      "role": "buyer",
+      "full_name": "alex vordov",
+      "phone_number": "4451245141",
+      "email": "test@gmail.com",
+      "password": "$2a$10$frNGjpSWC9urBRPzK9YtNOCaQ6cWZkcw1LVO6M91TrEPi2QyNZNvC",
+      "isDelete": false
+    },
+    "3": {
+      "id": 4,
+      "role": "buyer",
+      "full_name": "alexad vordov",
+      "phone_number": "4451245141",
+      "email": "test@gmail.com",
+      "password": "$2a$10$lnZBqSaNvHQ0K8oF93uf8.lWzykMsY.JlG.InBH.ljCgZbCwC0BGe",
+      "isDelete": false
+    },
+    "id": 5
+  }
+]

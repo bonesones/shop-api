@@ -1,0 +1,19 @@
+[
+  {
+    "id": 1,
+    "name": "Джем",
+    "image": "test.png",
+    "description": "Клубничный джем 1 литр",
+    "cost": 150
+  },
+  {
+    "0": {
+      "id": 1,
+      "name": "Джем",
+      "image": "test.png",
+      "description": "Клубничный джем 1 литр",
+      "cost": 150
+    },
+    "id": 2
+  }
+]
